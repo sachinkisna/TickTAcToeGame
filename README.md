@@ -1,7 +1,8 @@
 # 🎮 Tic Tac Toe Advance  
 *A modern, sleek, and interactive Tic Tac Toe game!*  
+🚀 **Developed By Sachinrout.com Team** → [🔗 Contact](https://sachinrout.com/)  
 
-🚀 **Live Demo** → [🔗 Click Here](https://your-username.github.io/tic-tac-toe-game/)  
+🚀 **Live Demo** → [🔗 Click Here](https://sachikisna.github.io/tic-tac-toe-game/)  
 *(Replace with your actual link)*  
 
 ---
@@ -34,4 +35,7 @@
 ## 🔧 Run Locally  
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/sachinkisna/tic-tac-toe-game.git
+
+
+
